@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Ng'ang'a.
-- 👀 I’m a data analyst.
+- 👀 I’m a data engineer.
 - 🌱 I’m currently learning how to tell a story using data.
 - 💞️ I’m looking to collaborate on data analysis projects.
 - 📫 How to reach me on **instagram.**
